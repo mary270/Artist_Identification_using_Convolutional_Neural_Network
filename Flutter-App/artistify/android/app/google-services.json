@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784489413723",
+    "project_id": "fir-artistify-app",
+    "storage_bucket": "fir-artistify-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784489413723:android:2a3965a01f7adbcf35d37e",
+        "android_client_info": {
+          "package_name": "com.example.artistify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784489413723-dmb8sotbahrb6co06jicnkop7ld5rfgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artistify",
+            "certificate_hash": "f06d03d0c8e565298303a940c60d813a54a7e092"
+          }
+        },
+        {
+          "client_id": "784489413723-ov1b7nbj35esg1agjsn3kag8ofp09lai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFprq9fTiqW-k6moIhRv-HW8f0xqMRSfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784489413723-ov1b7nbj35esg1agjsn3kag8ofp09lai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
